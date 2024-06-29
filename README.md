@@ -47,8 +47,4 @@ The notebook will:
 
 ## Results
 
-After training the model for 5 epochs, we achieve a high accuracy on the `MNIST` test set. The results are as follows:
-
-`Accuracy` - 0.9923
-
-`Loss` - 0.0260
+After training the model for 5 epochs, we achieve a high accuracy on the `MNIST` test set. 
